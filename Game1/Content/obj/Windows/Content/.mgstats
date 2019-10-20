@@ -1,1 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/background.png","C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/bin/Windows/Content/background.xnb","TextureProcessor","Texture2DContent",8848,1920085,0,5265547
+"C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/numbers.png","C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/bin/Windows/Content/numbers.xnb","TextureProcessor","Texture2DContent",11442,480085,0,0189515
+"C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/question.png","C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/bin/Windows/Content/question.xnb","TextureProcessor","Texture2DContent",1462,160085,0,0139912
