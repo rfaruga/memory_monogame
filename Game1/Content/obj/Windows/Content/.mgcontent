@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/Game1/Content/background.png</File>
-    <File>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/Game1/Content/numbers.png</File>
-    <File>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/Game1/Content/question.png</File>
+    <File>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/background.png</File>
+    <File>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/numbers.png</File>
+    <File>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/question.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

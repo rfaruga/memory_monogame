@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/Game1/Content/numbers.png</SourceFile>
-  <SourceTime>2019-10-18T19:54:31.4863086+02:00</SourceTime>
-  <DestFile>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/Game1/Content/bin/Windows/Content/numbers.xnb</DestFile>
-  <DestTime>2019-10-18T20:04:09.6945112+02:00</DestTime>
+  <SourceFile>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/numbers.png</SourceFile>
+  <SourceTime>2019-10-20T14:00:43.153545+02:00</SourceTime>
+  <DestFile>C:/Development/Grafika ruchoma/002 - 2D laborki/Game1/memory_monogame/Game1/Content/bin/Windows/Content/numbers.xnb</DestFile>
+  <DestTime>2019-10-20T14:25:13.0685499+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
